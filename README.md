@@ -1,3 +1,2 @@
-Git Tutorial
-Julianna Partida
+
 
